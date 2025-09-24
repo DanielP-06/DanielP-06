@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I'm Daniel!!
 
+### Bio (About me)
 Ingeniero en Mecatrónica en transición hacia Data Analytics y Data Engineering. Me interesa transformar datos y señales en decisiones accionables que aporten valor a negocios y proyectos de ingeniería. Trabajo con notebooks reproducibles, pipelines ETL simples y dashboards interactivos.
 
 🔧 Stack (resumen)
